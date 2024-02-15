@@ -1,6 +1,6 @@
 Animation Test mod for [Be2een Api](https://content.minetest.net/packages/_gianpy_/api_be2een/)
 
-Provides an item that plays a looped and interpolated hud animation on rightclick. May add examples for objects and other types of hud in the future.
+Provides two items that play looped and interpolated hud animations on rightclick. May add examples for objects and other properties of hud in the future, but you can try them out yourself with [Be2een Api](https://content.minetest.net/packages/_gianpy_/api_be2een/).
 
 anim_test_example.png by dax-er, CC-BY-SA 3.0
 
